@@ -44,4 +44,3 @@
  
 </div>
 
-![Snake animation](https://github.com/MaferRs/MaferRs/blob/output/github-contribution-grid-snake.svg)
