@@ -4,7 +4,7 @@
 
 <p> 😃Sou Desenvolvedora Front-End.<br> 
 👾E estou cursando Análise e Desenvolvimento de Sistemas.  <br>
- 🫰🏽Espero que goste de conhecer um pouquinho  do meu mundo</p>
+ 🫰🏽Espero que goste de conhecer um pouquinho  do meu mundo!!</p>
  
 
 
