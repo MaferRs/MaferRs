@@ -1,11 +1,14 @@
-### Hello World!
+## 🖖Hello World!
+
+### Me chamo Maria Fernanda e seja Bem-Vindo(a) ao meu perfil GitHub!
+
+<p> 😃Sou Desenvolvedora Front-End.<br> 
+👾E estou cursando Análise e Desenvolvimento de Sistemas.  <br>
+ 🫰🏽Espero que goste de conhecer um pouquinho  do meu mundo</p>
+ 
 
 
-- 🔭 Estudante de Desenvolvimento Web.
-- 🌱 Análise e Desenvolvimento de Sistemas.
-
-# Olá, me chamo Maria Fernanda !
-## Bem vindo ao meu perfil GitHub 👋 
+ 
 <div align="center" style="display: inline_block"><br>
 <img height="420" width="450"  src ="https://user-images.githubusercontent.com/90789503/194968410-b4e03c62-1e9a-4eae-b82e-fcd61bfa3382.png"/>
 
