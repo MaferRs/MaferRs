@@ -48,7 +48,7 @@ Espero que goste de conhecer um pouco do meu mundo!
 
  
 <div align="center" style="display: inline_block"><br>
-<img height="420" width="450"  src ="https://user-images.githubusercontent.com/90789503/194968410-b4e03c62-1e9a-4eae-b82e-fcd61bfa3382.png"/>
+<img height="420" width="450"  src ="https://github.com/MaferRs/MaferRs/assets/90789503/040dde0d-1e01-4780-8a7f-ca3ad2c03422"/>
 
 </div>
 
@@ -57,7 +57,6 @@ Espero que goste de conhecer um pouco do meu mundo!
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MaferRs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaferRs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
 
 
 
