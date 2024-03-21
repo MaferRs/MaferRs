@@ -13,7 +13,8 @@ Se você tiver alguma dúvida ou apenas quiser conversar, fique à vontade para 
 <a href="https://www.linkedin.com/in/mafers" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## 📚 Projetos
-Aqui você encontrará uma variedade de projetos nos quais trabalhei. Sinta-se à vontade para explorar e dar feedback!
+Aqui você encontrará uma variedade de projetos nos quais trabalhei. <br>
+Sinta-se à vontade para explorar e dar feedback!
 
 ## 🚀Ferramentas e Tecnologias
 <div align="center"><br>
